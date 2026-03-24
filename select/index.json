@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "NIGHTINGALE",
+  "base_artist": "NAQT VANE",
+  "createdAt": "2026-03-24T06:56:32.685375Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nightingale",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/01_Nightingale_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nightingale",
+      "artist": "Laura Veirs",
+      "has_synced": false,
+      "path": "select/02_Nightingale_Laura_Veirs.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nightingale",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/03_Nightingale_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Nightingale Sang in Berkeley Square",
+      "artist": "Glenn Miller",
+      "has_synced": false,
+      "path": "select/04_A_Nightingale_Sang_in_Berkeley_Square_Glenn_Miller.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Nightingale Sang In Berkeley Square (2000 Digital Remaster)",
+      "artist": "Nat King Cole",
+      "has_synced": true,
+      "path": "select/05_A_Nightingale_Sang_In_Berkeley_Square_(2000_Digital_Remaster)_Nat_King_Cole.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nightingale",
+      "artist": "The Reign of Kindo",
+      "has_synced": true,
+      "path": "select/06_Nightingale_The_Reign_of_Kindo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nightingale (Alternate Version – The Allaire Sessions)",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/07_Nightingale_(Alternate_Version_–_The_Allaire_Sessions)_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nightingale Song",
+      "artist": "Toad the Wet Sprocket",
+      "has_synced": true,
+      "path": "select/08_Nightingale_Song_Toad_the_Wet_Sprocket.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nightingale",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/09_Nightingale_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nightingale",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/10_Nightingale_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Where the Nightingale Sings",
+      "artist": "Gang of Four",
+      "has_synced": false,
+      "path": "select/11_Where_the_Nightingale_Sings_Gang_of_Four.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Know Why The Nightingale Sings - Remastered",
+      "artist": "Nightwish",
+      "has_synced": false,
+      "path": "select/12_Know_Why_The_Nightingale_Sings_-_Remastered_Nightwish.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Know Why The Nightingale Sings",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/13_Know_Why_The_Nightingale_Sings_Nightwish.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NIGHTINGALE",
+      "artist": "NAQT VANE",
+      "has_synced": false,
+      "path": "select/pl_01_NIGHTINGALE_NAQT_VANE.txt"
+    }
+  ]
+}
